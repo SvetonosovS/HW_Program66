@@ -1,0 +1,15 @@
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\66_Homework.csproj.AssemblyReference.cache
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\66_Homework.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\66_Homework.AssemblyInfoInputs.cache
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\66_Homework.AssemblyInfo.cs
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\66_Homework.csproj.CoreCompileInputs.cache
+E:\C#\Example C#\66_Homework\bin\Debug\net6.0\66_Homework.exe
+E:\C#\Example C#\66_Homework\bin\Debug\net6.0\66_Homework.deps.json
+E:\C#\Example C#\66_Homework\bin\Debug\net6.0\66_Homework.runtimeconfig.json
+E:\C#\Example C#\66_Homework\bin\Debug\net6.0\66_Homework.dll
+E:\C#\Example C#\66_Homework\bin\Debug\net6.0\66_Homework.pdb
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\66_Homework.dll
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\refint\66_Homework.dll
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\66_Homework.pdb
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\66_Homework.genruntimeconfig.cache
+E:\C#\Example C#\66_Homework\obj\Debug\net6.0\ref\66_Homework.dll
